@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<commands>
+  <command>
+    <name>teste</name>
+    <textCommand>123</textCommand>
+    <idApp>62</idApp>
+    <idMod>86</idMod>
+  </command>
+  <command>
+    <name>testdfghb</name>
+    <textCommand>ftyfftyfty</textCommand>
+    <idApp>62</idApp>
+    <idMod>86</idMod>
+  </command>
+  <command>
+    <name>fsd</name>
+    <textCommand>fs</textCommand>
+    <idApp>62</idApp>
+    <idMod>86</idMod>
+  </command>
+  <command>
+    <name>123</name>
+    <textCommand>123</textCommand>
+    <idApp>61</idApp>
+    <idMod>84</idMod>
+  </command>
+  <command>
+    <name>teste2</name>
+    <textCommand>123</textCommand>
+    <idApp>61</idApp>
+    <idMod>93</idMod>
+  </command>
+  <command>
+    <name>teste</name>
+    <textCommand>teste</textCommand>
+    <idApp>74</idApp>
+    <idMod>123</idMod>
+  </command>
+</commands>

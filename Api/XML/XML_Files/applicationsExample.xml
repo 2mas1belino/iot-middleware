@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<applications>
+	<application>
+		<id></id>
+		<name>AppName</name>
+		<creation_dt></creation_dt>
+		<modules>
+			<module>
+				<id></id>
+				<name>ModuleName</name>
+				<creation_dt></creation_dt>
+				<parent></parent>
+				<datas>
+					<data>
+						<id></id>
+						<content></content>
+						<creation_dt></creation_dt>
+						<parent></parent>
+					</data>
+				</datas>
+				<subscriptions>
+					<subscription>
+						<id></id>
+						<name></name>
+						<creation_dt></creation_dt>
+						<parent></parent>
+						<event></event>
+						<endpoint></endpoint>
+					</subscription>
+				</subscriptions>
+			</module>
+		</modules>
+	</application>
+</applications>

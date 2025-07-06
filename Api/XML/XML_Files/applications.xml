@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<applications>
+  <application>
+    <id>86</id>
+    <creation_dt>30/12/2022 02:42:36</creation_dt>
+    <name>Quarto</name>
+    <modules>
+      <module>
+        <id>91</id>
+        <creation_dt>30/12/2022 02:42:47</creation_dt>
+        <name>Lampada</name>
+        <parent>86</parent>
+        <subscriptions>
+          <subscription>
+            <id>24</id>
+            <creation_dt>30/12/2022 02:42:47</creation_dt>
+            <name>Lampada</name>
+            <parent>91</parent>
+            <event>both</event>
+            <endpoint>127.0.0.1</endpoint>
+          </subscription>
+          <subscription>
+            <id>70</id>
+            <creation_dt>1/2/2023 7:22:10 PM</creation_dt>
+            <name>asd</name>
+            <parent>91</parent>
+            <event>both</event>
+            <endpoint>127.0.0.1</endpoint>
+          </subscription>
+        </subscriptions>
+      </module>
+      <module>
+        <id>94</id>
+        <creation_dt>30/12/2022 04:04:30</creation_dt>
+        <name>Estores</name>
+        <parent>86</parent>
+        <subscriptions>
+          <subscription>
+            <id>39</id>
+            <creation_dt>30/12/2022 04:04:30</creation_dt>
+            <name>Estores</name>
+            <parent>94</parent>
+            <event>both</event>
+            <endpoint>127.0.0.1</endpoint>
+          </subscription>
+        </subscriptions>
+      </module>
+      <module>
+        <id>95</id>
+        <creation_dt>30/12/2022 04:04:48</creation_dt>
+        <name>Fechadura da porta</name>
+        <parent>86</parent>
+        <subscriptions>
+          <subscription>
+            <id>40</id>
+            <creation_dt>30/12/2022 04:04:48</creation_dt>
+            <name>Fechadura da porta</name>
+            <parent>95</parent>
+            <event>both</event>
+            <endpoint>127.0.0.1</endpoint>
+          </subscription>
+        </subscriptions>
+      </module>
+    </modules>
+  </application>
+  <application>
+    <id>73</id>
+    <creation_dt>1/2/2023 7:22:02 PM</creation_dt>
+    <name>asd</name>
+    <modules>
+      <module>
+        <id>91</id>
+        <creation_dt>1/2/2023 7:22:10 PM</creation_dt>
+        <name>eqw</name>
+        <parent>73</parent>
+      </module>
+      <module>
+        <id>92</id>
+        <creation_dt>1/2/2023 7:24:37 PM</creation_dt>
+        <name>dsdsd</name>
+        <parent>73</parent>
+        <subscriptions>
+          <subscription>
+            <id>71</id>
+            <creation_dt>1/2/2023 7:24:38 PM</creation_dt>
+            <name>dsdsd</name>
+            <parent>92</parent>
+            <event>both</event>
+            <endpoint>127.0.0.1</endpoint>
+          </subscription>
+        </subscriptions>
+      </module>
+      <module>
+        <id>93</id>
+        <creation_dt>1/2/2023 7:24:41 PM</creation_dt>
+        <name>m</name>
+        <parent>73</parent>
+        <subscriptions>
+          <subscription>
+            <id>72</id>
+            <creation_dt>1/2/2023 7:24:41 PM</creation_dt>
+            <name>aaaaa</name>
+            <parent>93</parent>
+            <event>both</event>
+            <endpoint>127.0.0.1</endpoint>
+          </subscription>
+        </subscriptions>
+      </module>
+    </modules>
+  </application>
+</applications>
